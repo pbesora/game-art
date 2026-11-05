@@ -1,0 +1,17 @@
+{
+  "name": "game-art",
+  "displayName": "Game Art",
+  "version": "1.0.0",
+  "description": "Toolkit de arte para videojuegos: diseña prompts precisos para IA y genera sprites pixel art limpios, spritesheets y visores interactivos en cualquier resolución (WxH).",
+  "author": {
+    "name": "pbesora",
+    "url": "https://github.com/pbesora"
+  },
+  "repository": "https://github.com/pbesora/game-art",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Dame el prompt para generar un caballero isométrico de 48x48",
+    "Convierte esta imagen en un sprite de 64x64 con paleta de 16 colores",
+    "Genérame directamente un sprite pixel art de un cofre de 24x24"
+  ]
+}
